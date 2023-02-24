@@ -35,8 +35,13 @@ POST /Clothes
         "Large",
         "ExtraLarge"
     ],
-    "Trousers": [
+    "Colors": [
         "White"
+        "Blue"
+    ],
+    "images": [
+        "White"
+        "Blue"
     ]
 }
 ```
@@ -65,8 +70,13 @@ Location: {{host}}/Clothes/{{id}}
         "Large",
         "ExtraLarge"
     ],
-    "Trousers": [
+    "Colors": [
         "White"
+        "Blue"
+    ],
+    "images": [
+        "White"
+        "Blue"
     ]
 }
 ```
@@ -99,8 +109,13 @@ GET /Clothes/{{id}}
         "Large",
         "ExtraLarge"
     ],
-    "Trousers": [
+    "Colors": [
         "White"
+        "Blue"
+    ],
+    "images": [
+        "White"
+        "Blue"
     ]
 }
 ```
@@ -125,8 +140,13 @@ PUT /Clothes/{{id}}
         "Large",
         "ExtraLarge"
     ],
-    "Trousers": [
+    "Colors": [
         "White"
+        "Blue"
+    ],
+    "images": [
+        "White"
+        "Blue"
     ]
 }
 ```

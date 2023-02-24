@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "CrispLook.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CrispLook.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CrispLook.Contracts.dll": {}
+        }
       }
     }
   },
@@ -451,10 +461,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "CrispLook.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../CrispLook.Contracts/CrispLook.Contracts.csproj",
+      "msbuildProject": "../CrispLook.Contracts/CrispLook.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "CrispLook.Contracts >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.2",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -491,7 +507,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\eigwe001\\CrispLook\\CrispLook.Contracts\\CrispLook.Contracts.csproj": {
+              "projectPath": "C:\\Users\\eigwe001\\CrispLook\\CrispLook.Contracts\\CrispLook.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

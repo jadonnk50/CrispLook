@@ -1,6 +1,6 @@
 namespace CrispLook.Contracts;
 
-public record CreateClotheRequest(
+public record UpsertClotheRequest(
     string Name,
     string Description,
     int Price,

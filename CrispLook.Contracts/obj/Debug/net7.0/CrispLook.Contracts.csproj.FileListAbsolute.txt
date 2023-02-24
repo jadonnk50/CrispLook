@@ -1,0 +1,12 @@
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\bin\Debug\net7.0\CrispLook.Contracts.deps.json
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\bin\Debug\net7.0\CrispLook.Contracts.dll
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\bin\Debug\net7.0\CrispLook.Contracts.pdb
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.csproj.AssemblyReference.cache
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.AssemblyInfoInputs.cache
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.AssemblyInfo.cs
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.dll
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\refint\CrispLook.Contracts.dll
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\CrispLook.Contracts.pdb
+C:\Users\eigwe001\CrispLook\CrispLook.Contracts\obj\Debug\net7.0\ref\CrispLook.Contracts.dll
