@@ -1,4 +1,4 @@
-namespace CrispLook.Contracts;
+namespace CrispLook.Contracts.Clothe;
 
 public record ClotheResponse(
     Guid Id,

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tmteayFGAegfDat9y+yxNHYVPdRaDVKocOndQCth2W8bQM8IwSKKSzbas/x+QO8shpGclwcHvZJ/hQp+WsNVdQ==",
+  "dgSpecHash": "YuP70K9fNUwPr79ltsQr3yAYEXRHrSpbqKFuYLsK22gvwZAbaZy0bqezPzli8wrcF2B7aO1/trOoJDRP7pGvTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eigwe001\\CrispLook\\CrispLook\\CrispLook.csproj",
+  "projectFilePath": "C:\\Users\\eigwe001\\Source\\Repos\\jadonnk50\\CrispLook\\CrispLook\\CrispLook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eigwe001\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\eigwe001\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
