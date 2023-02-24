@@ -1,0 +1,24 @@
+POST http://localhost:5292/clothes
+Content-Type: application/json
+
+{
+    "name": "Delta Sunshine",
+    "description": "Tailored Fit Casual wear for sunny days! ..",
+    "price": "5000",
+    "productionDate": "2022-04-08T08:00:00",
+    "quantity": "20",
+    "sizes": [
+        "Small",
+        "Medium",
+        "Large",
+        "ExtraLarge"
+    ],
+    "colors": [
+        "White",
+        "Blue"
+    ],
+    "images": [
+        "White",
+        "Blue"
+    ]
+}
